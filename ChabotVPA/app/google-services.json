@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "174367002610",
+    "project_id": "my-chatbot-b7b51",
+    "storage_bucket": "my-chatbot-b7b51.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174367002610:android:5eb6b14cc8c3a0a701a56b",
+        "android_client_info": {
+          "package_name": "lat.project.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174367002610-ou8jl8jjo3dmv9960tnt575g9o2554e8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lat.project.mobile",
+            "certificate_hash": "1e828bffbbe9989b18b7b61928e0425054d1b13d"
+          }
+        },
+        {
+          "client_id": "174367002610-i6kjqr47nui6krcm68pmg15h38r6a5pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Ge69dKEj93bxWiHhR-bvLxafHk6cAk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174367002610-i6kjqr47nui6krcm68pmg15h38r6a5pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
